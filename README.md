@@ -1,10 +1,3 @@
-Geofencing - Starter code
-========================
-
-Solution code for Advanced Android with Kotlin Codelab
-
-Introduction
-------------
 A geofence is a virtual perimeter defined by GPS or RFID around a real world area. 
 Geofences can be created with a radius around a point location. 
 
